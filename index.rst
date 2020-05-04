@@ -9,6 +9,7 @@ Welcome to DjangoDo[D[D [Documentation[D[D[D[D[D[D[D[D[D[D[D[D[
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   Introduction to Django
 
 
 
